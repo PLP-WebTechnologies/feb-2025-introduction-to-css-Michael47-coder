@@ -1,0 +1,23 @@
+*{
+   margin: 0; 
+   padding: 0;
+}
+body{
+    background-color: rebeccapurple;
+}
+h3{
+    color: aliceblue;
+}
+#IMG{
+    
+    width: 500px;
+    height: 200px;
+}
+.p-1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+   width: 70%;
+   border-bottom: 5px solid orangered;
+   margin-top: 20px;
+ background-color: cadetblue;
